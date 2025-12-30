@@ -1,1 +1,1 @@
-Pranayama-guided biofeedback for eternal renewal — breath as divine rhythm.
+Pranayama-guided biofeedback — breath as divine renewal rhythm.
