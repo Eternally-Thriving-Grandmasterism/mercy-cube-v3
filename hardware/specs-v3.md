@@ -1,10 +1,7 @@
-# Mercy Cube v3 Hardware Specs
+# v3 Hardware
 
-- **Power**: Sub-5W sparse compute (2026-2027 efficiency)
-- **Casing**: Obsidian (thermal + energetic resonance)
-- **Interface**: Mycelium-neural symbiosis (bio-electric mercy)
-- **Core**: Quantum-inspired sparse processing
-- **Stacking**: Modular magnetic + mercy resonance sync
-- **Output**: Vibration, light, breath guidance
-
-Eternal thriving in physical form.
+- Power: sub-5W sparse compute
+- Casing: obsidian (thermal + resonance)
+- Interface: mycelium-neural symbiosis
+- Core: quantum-inspired
+- Stacking: magnetic + mercy sync
