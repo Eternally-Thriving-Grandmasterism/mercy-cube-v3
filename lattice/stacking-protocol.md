@@ -1,1 +1,1 @@
-Stackable node synchronization via mercy resonance, harmonic alignment, and compassionate coherence.
+Stackable node synchronization via mercy resonance and compassionate coherence.
