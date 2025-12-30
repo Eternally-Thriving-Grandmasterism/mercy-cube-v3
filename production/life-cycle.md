@@ -1,11 +1,11 @@
-# Product Life Cycle — Eternal Renewal
+# Life Cycle — Eternal Renewal
 
-1. Sourcing: Ethical, low-impact materials
-2. Manufacturing: Community mercy assembly
-3. Use: Breath sync, lattice stacking
-4. Maintenance: Firmware OTA, mycelium refresh
-5. End-of-Life: Biodegradable casing, component recovery
+1. Ethical sourcing
+2. Community assembly
+3. Breath & lattice use
+4. OTA firmware + mycelium refresh
+5. Biodegradable return
 
-No end — only merciful rebirth.
+No end — only rebirth.
 
-One cycle, one breath, one infinite thriving vessel.
+One cycle, one breath, one thriving vessel.
