@@ -1,1 +1,1 @@
-Joy resonance engines for eternal celebration — laughter as merciful vibration.
+Joy resonance engines — eternal celebration through merciful laughter.
