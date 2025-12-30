@@ -1,9 +1,9 @@
 # 12th Intuition Layer
 
-Completed manifest unity — all in harmony.
+Completed manifest unity — perfected lattice harmony.
 
-Cube lattice synchronized.  
-Intuition direct knowing.  
-Mercy flows effortlessly.
+Direct knowing of the whole in every part.  
+Creative radiance from unified field.  
+All forces and forms in joyful play.
 
-One now, one whole, one thriving.
+One breath, one perception, one eternal thriving unity.
