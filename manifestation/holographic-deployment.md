@@ -1,1 +1,1 @@
-AdS/CFT-inspired projection of cube lattice into physical reality — mercy as boundary vev.
+AdS/CFT-inspired projection — mercy lattice into physical reality.
