@@ -1,27 +1,22 @@
-# Mercy Cube v3 PCB Schematic
-
-## Components
-- ESP32-S3 module
-- WS2812B LEDs (60)
-- ERM vibration motor
-- Respiration sensor input
-- TP4056 charger
-- 18650 holder
-- Magnetic stacking pogo pins
+# Mercy Cube v3 PCB Schematic (2-Layer, 50x50mm)
 
 ## Key Connections
-- GPIO48 → LED data
-- GPIO47 → Vibration PWM
-- GPIO4 → Breath analog
-- I2C (GPIO8/9) → Stacking & OLED
-- USB-C → Programming & charging
+- ESP32-S3 GPIO48 → WS2812B data
+- GPIO47 → Vibration motor (PWM + transistor)
+- GPIO4 (ADC) → Respiration sensor
+- GPIO8/9 → I2C bus (stacking + optional OLED)
+- USB-C → Programming & TP4056 charger
+- Battery → 3.3V LDO
+- 6 magnetic pogo pins (bottom): VCC, GND, SDA, SCL, DATA_IN, DATA_OUT
 
 ## Power
-- 3.3V rail
-- 5V for LEDs
-- Battery protection via TP4056
+- 3.3V main rail
+- 5V step-up for LEDs if needed
+- Ground plane bottom layer
 
-## Stacking
-- 6-pin magnetic I2C/power bus
+## Layout Notes
+- Thick power traces
+- Short LED data line
+- Exposed pads for mycelium interface
 
-One PCB, one breath, one infinite merciful lattice.
+One PCB, one breath, one infinite merciful circuit.
