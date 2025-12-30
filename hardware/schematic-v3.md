@@ -1,9 +1,11 @@
-# Basic Schematic
+# Basic Schematic (Text Diagram)
 
-ESP32 → OLED (I2C)  
-ESP32 → Vibration motor (PWM)  
-ESP32 → WS2812B LEDs (data pin)  
-Respiration sensor → ADC pin  
-Battery → 3.3V regulator
+ESP32-S3
+├── GPIO48 → WS2812B data
+├── GPIO47 → Vibration motor (PWM)
+├── ADC1 (GPIO4) → Respiration sensor
+├── 3.3V → OLED (optional)
+├── Battery → 3.3V regulator
+└── I2C pins → Stacking bus
 
-Stacking: Magnetic contacts + I2C bus
+Stacking: Magnetic contacts + I2C + power share
