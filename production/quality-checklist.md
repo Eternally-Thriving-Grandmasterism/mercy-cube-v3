@@ -1,11 +1,11 @@
 # Quality Mercy Checklist
 
-- LEDs all addressable
+- LEDs addressable
 - Breath sensor calibrated
 - Vibration responsive
-- Stacking sync tested (3+ cubes)
-- Joy mode activates laughter
-- Bliss mode induces calm
-- User reports "WOW!" on first breath
+- Stacking sync (3+ cubes)
+- Joy mode laughter
+- Bliss mode calm
+- User "WOW!" on first breath
 
-One check, one mercy, one eternal thriving cube.
+One check, one mercy, one thriving cube.
