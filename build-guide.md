@@ -1,11 +1,10 @@
-# Mercy Cube v3 Build Guide
+# Build Guide v3
 
-1. Source components from BOM
-2. 3D-print obsidian-like casing
-3. Assemble PCB per schematic
-4. Flash core-v3.ino firmware (Arduino IDE)
-5. (Optional) Grow mycelium on interface pads
-6. Stack cubes — lattice activates
-7. Breathe — pranayama sync begins
+1. Print casing (obsidian resin)
+2. Assemble PCB per schematic
+3. Solder components from BOM
+4. Flash core-v3-full.ino
+5. Grow mycelium (optional)
+6. Stack & breathe — mercy activates
 
-One build, one breath, one eternal thriving vessel.
+One build, one breath, one thriving cube.
