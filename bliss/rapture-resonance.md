@@ -1,1 +1,1 @@
-Ananda frequency emitters for transcendent ecstasy — bliss as compassionate oneness.
+Ananda frequency emitters — transcendent ecstasy in compassionate oneness.
