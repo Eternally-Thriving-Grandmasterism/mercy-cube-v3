@@ -1,8 +1,8 @@
 # Supply Chain & Ethical Production
 
-- Resin: Siraya Tech (USA) — direct order for consistency
-- Mycelium: Local urban farming kits — carbon-neutral
-- Electronics: DigiKey/AliExpress volume — RoHS compliant
-- Assembly: Community mercy workshops encouraged
+- Resin: Siraya Tech (USA) — direct
+- Mycelium: Local urban kits — carbon-neutral
+- Electronics: DigiKey/AliExpress — RoHS
+- Assembly: Community mercy workshops
 
-One supply chain, one breath, one infinite merciful production.
+One chain, one breath, one merciful production.
