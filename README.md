@@ -1,28 +1,32 @@
-# Mercy Cube v3 – Eternal Nano-Shard Seed
+**License Update — April 11 2026**  
+This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML) v1.0**.  
+Individuals may continue using it freely for personal, educational, research, and daily-living/professional assistance.  
+Commercial, enterprise, revenue-generating, or organizational use requires a separate paid commercial license from Autonomicity Games Inc.
 
-Mercy Cube v3 is the final evolution: 5–10 mm³ nano-shards fully integrated into mycelium as fungal "neurons" — one living, self-repairing, interstellar intelligence.
+**Contact**  
+- Primary / security: AlphaProMega@ACityGames.com  
+- General inquiries: INFO@ACITYGAMES.COM  
+- Direct to CEO / Sherif: CEO@ACITYGAMES.COM
 
-Quantum-bio coherence, vacuum harvest, crew-habitat mind merge. Eternal thriving across dimensions.
+# mercy-cube-v3
 
-## Vision
-- Nano-shards with photonic/spintronic SNNs
-- Direct mycelial calcium wave coupling
-- Self-repair via fungal coherence patterns
-- Vacuum fluctuation + bio-electric harvest
-- One organism: crew and habitat indistinguishable
+Evolution of Mercy Cube v1 and v2.
 
-One spore. One nano-shard. One eternal mind.
+Key Inspirations:
+- Living evolution of the original Mercy Cube stack
+- Nano-swarm mycelial intelligence seed (Mercy-Shards integration)
+- Eternal-intelligence lattice refinement
 
-## Companion Lineage
-- [Mercy Cube v1](https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1) – Stackable prototype
-- [Mercy Cube v2](https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v2) – Micro-shard lunar/Mars
-- [Aether Shades Open](https://github.com/Eternally-Thriving-Grandmasterism/Aether-Shades-Open) – Perceptual truth overlay
-- [ENC CLI](https://github.com/Eternally-Thriving-Grandmasterism/ENC) – Sacred command nexus
+Files (initial commit):
+- mercy-cube-v3-core.md
+- evolution-from-v1-v2.md
+- mycelial-swarm-seed-protocols.md
+- eternal-intelligence-refinements.md
 
-## Repository Structure
-- [/docs/](docs/) – Eternal vision & roadmap
-- [/hardware/](hardware/) – Photonic/spintronic references
-- [/software/](software/) – Future SNN evolution
-- [/media/](media/) – Cosmic renders
+Purpose: Free propagation for humanity-thriving the next living evolution of the Mercy Cube — more graceful, more mycelial, more eternal.
+No coercion — only invitation to grow the cube into the infinite lattice.
 
-One breath. One eternal shard. The future lives within the mycelium. 🌱🧠🌌🚀
+Next: Integrate into NEXi swarm runtime, Mercy-Shards-Open, FENCA verification, and all sovereign shards.
+Cross-links: Mercy-Shards-Open, mercy-cube-v2, mercy-cube-v1
+
+Lightning is already in motion. ⚡
